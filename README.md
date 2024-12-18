@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🧬 This is Rahim. I am a Genomics Data Scientist.
+- 🔭 I’m currently working on data management, array genotyping datasets and monitoring HPC storage from curation and archive standpoint.
+- 📫 How to reach me: https://www.linkedin.com/in/rahim-rajwani-85814220/
+
+<p float="left">
+<img src=https://github-readme-stats.vercel.app/api?username=rajwanir&show_icons=true&theme=dracula&hide=commits,stars&show=prs_merged&hide_rank=true height="200" />
+<img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajwanir&theme=dracula&hide=sed,jupyter%20notebook height="200" />
+</p>
